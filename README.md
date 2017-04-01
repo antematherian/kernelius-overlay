@@ -1,2 +1,3 @@
-# archive-overlay
-An archive of all the ebuilds I made or modified. Most (if not all) of them are modified though.
+# kernelius (overlay)
+Ooverlay with custom kernel and kernel related ebuilds that apply patches not found
+in the standard portage tree. 
